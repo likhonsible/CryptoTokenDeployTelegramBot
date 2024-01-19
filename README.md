@@ -18,6 +18,13 @@ Welcome to the **Crypto Token Deploy | Creator Bot**, a Telegram bot that simpli
 2. Type `/start` to initiate the bot.
 3. Follow the intuitive instructions to create and deploy your token.
 
+**Support Our Crypto Journey:**  
+Your donations drive innovation and progress. 💫
+
+## Quick Donate 🌟
+
+- **Ethereum | Binance (ETH/BNB/ERC20/BEP20):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A` 
+
 ## Powered by Technology 🛠️
 
 - Built on Hardhat.
